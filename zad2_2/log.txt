@@ -1,0 +1,30 @@
+sie 15, 2018 1:08:47 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 1 Jabłoński: 298s
+sie 15, 2018 1:08:50 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 2 Król: 282s
+sie 15, 2018 1:08:52 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 3 Sadowski: 332s
+sie 15, 2018 1:08:54 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 4 Krawczyk: 300s
+sie 15, 2018 1:08:57 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 5 Mazur: 370s
+sie 15, 2018 1:08:59 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 6 Zakrzewski: 315s
+sie 15, 2018 1:09:02 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 7 Woźniak: 301s
+sie 15, 2018 1:09:04 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 8 Szewczyk: 332s
+sie 15, 2018 1:09:06 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 9 Szymański: 291s
+sie 15, 2018 1:09:09 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 10 Szulc: 275s
+sie 15, 2018 1:09:11 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 11 Wójcik: 256s
+sie 15, 2018 1:09:14 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 12 Marciniak: 301s
+sie 15, 2018 1:09:16 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 13 Ostrowski: 303s
+sie 15, 2018 1:09:18 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 14 Kaźmierczak: 307s
+sie 15, 2018 1:09:21 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 15 Kowalski: 250s
