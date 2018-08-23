@@ -1,0 +1,30 @@
+sie 23, 2018 4:44:02 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 1 Kowalczyk: 304s
+sie 23, 2018 4:44:05 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 2 Kozłowski: 300s
+sie 23, 2018 4:44:07 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 3 Zalewski: 308s
+sie 23, 2018 4:44:09 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 4 Wójcik: 313s
+sie 23, 2018 4:44:12 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 5 Krajewski: 308s
+sie 23, 2018 4:44:14 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 6 Sikorski: 274s
+sie 23, 2018 4:44:17 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 7 Adamczyk: 311s
+sie 23, 2018 4:44:19 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 8 Wojciechowski: 299s
+sie 23, 2018 4:44:21 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 9 Grabowski: 274s
+sie 23, 2018 4:44:24 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 10 Zawadzki: 254s
+sie 23, 2018 4:44:26 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 11 Makowski: 257s
+sie 23, 2018 4:44:29 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 12 Kołodziej: 322s
+sie 23, 2018 4:44:31 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 13 Czarnecki: 312s
+sie 23, 2018 4:44:33 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 14 Szewczyk: 277s
+sie 23, 2018 4:44:36 PM zad2_2.Wyscig run
+FINE: Zawodnik nr 15 Lewandowski: 303s
