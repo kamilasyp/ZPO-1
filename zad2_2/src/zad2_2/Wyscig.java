@@ -8,7 +8,6 @@ import java.util.Random;
 import java.util.concurrent.CountDownLatch;
 import java.util.logging.Level;
 
-import zad2_2.Log;
 
 public class Wyscig implements Runnable {
 

@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
 
 public class CzytanieURL {
 
@@ -29,12 +31,13 @@ public class CzytanieURL {
 		}
 
 		String nazwisko;
-
-		ArrayList<String> listNazwiska = new ArrayList<String>();
-		// dodanie nazwisk do listy
+		Set<String> setNazwiska = new HashSet<>();
+		
+		
+		// dodanie nazwisk do seta (zapewni brak powtórzeń)
 		try {
 			while ((nazwisko = in.readLine()) != null) {
-				listNazwiska.add(nazwisko);
+				setNazwiska.add(nazwisko);
 			}
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -46,6 +49,12 @@ public class CzytanieURL {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+		}
+		
+		ArrayList<String> listNazwiska = new ArrayList<String>();
+		// skopiowanie nazwisk do ArrayList
+		for (String nazwisko2 : setNazwiska) {
+			listNazwiska.add(nazwisko2);
 		}
 
 		return listNazwiska;

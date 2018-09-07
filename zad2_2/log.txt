@@ -1,30 +1,30 @@
-sie 23, 2018 4:44:02 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 1 Kowalczyk: 304s
-sie 23, 2018 4:44:05 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 2 Kozłowski: 300s
-sie 23, 2018 4:44:07 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 3 Zalewski: 308s
-sie 23, 2018 4:44:09 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 4 Wójcik: 313s
-sie 23, 2018 4:44:12 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 5 Krajewski: 308s
-sie 23, 2018 4:44:14 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 6 Sikorski: 274s
-sie 23, 2018 4:44:17 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 7 Adamczyk: 311s
-sie 23, 2018 4:44:19 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 8 Wojciechowski: 299s
-sie 23, 2018 4:44:21 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 9 Grabowski: 274s
-sie 23, 2018 4:44:24 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 10 Zawadzki: 254s
-sie 23, 2018 4:44:26 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 11 Makowski: 257s
-sie 23, 2018 4:44:29 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 12 Kołodziej: 322s
-sie 23, 2018 4:44:31 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 13 Czarnecki: 312s
-sie 23, 2018 4:44:33 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 14 Szewczyk: 277s
-sie 23, 2018 4:44:36 PM zad2_2.Wyscig run
-FINE: Zawodnik nr 15 Lewandowski: 303s
+wrz 07, 2018 3:38:16 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 1 Woźniak: 250s
+wrz 07, 2018 3:38:18 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 2 Pawłowski: 306s
+wrz 07, 2018 3:38:21 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 3 Szewczyk: 294s
+wrz 07, 2018 3:38:23 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 4 Walczak: 331s
+wrz 07, 2018 3:38:25 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 5 Krajewski: 370s
+wrz 07, 2018 3:38:28 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 6 Nowakowski: 313s
+wrz 07, 2018 3:38:30 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 7 Olszewski: 315s
+wrz 07, 2018 3:38:33 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 8 Sadowski: 314s
+wrz 07, 2018 3:38:35 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 9 Głowacki: 326s
+wrz 07, 2018 3:38:37 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 10 Ziółkowski: 329s
+wrz 07, 2018 3:38:40 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 11 Przybylski: 294s
+wrz 07, 2018 3:38:42 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 12 Cieślak: 304s
+wrz 07, 2018 3:38:45 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 13 Zalewski: 310s
+wrz 07, 2018 3:38:47 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 14 Szymczak: 317s
+wrz 07, 2018 3:38:49 AM zad2_2.Wyscig run
+FINE: Zawodnik nr 15 Zawadzki: 314s
